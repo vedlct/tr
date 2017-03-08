@@ -1,0 +1,2 @@
+[09-Jan-2017 05:51:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tarique/public_html/tr/application/views/home.php on line 66
+[09-Jan-2017 05:53:39 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/tarique/public_html/tr/application/views/home.php on line 66
